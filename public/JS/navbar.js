@@ -28,7 +28,7 @@ const navbar = `
                             <li><a class="dropdown-item" href="#">Pedidos</a></li>
                         </ul>
                     </li>
-                    <button id="botonLogOut" class="btn btn-outline-danger" onclick="logOut()" type="submit">Salir</button>
+                    <button id="botonLogOut" class="btn btn-outline-warning" onclick="logOut()" type="submit">Salir</button>
                 </ul>
             </div>
             <button id="botonIngresar" class="btn btn-outline-success" onclick="botonIngre()" type="submit">Ingresar</button>
